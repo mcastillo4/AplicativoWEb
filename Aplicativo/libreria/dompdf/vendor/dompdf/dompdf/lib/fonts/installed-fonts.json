@@ -1,0 +1,14 @@
+{
+    "source sans pro": {
+        "italic": "C:\\xampp\\htdocs\\crudapi\\public\\Portafolio\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_italic_27672a92dcedb2218abd2dadee4fe950",
+        "300": "C:\\xampp\\htdocs\\crudapi\\public\\Portafolio\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_300_dbbdd64c03e29f61c9033b77e28cbe3e",
+        "normal": "C:\\xampp\\htdocs\\crudapi\\public\\Portafolio\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_normal_a457a0c6f86469b4a65db96256674d7c",
+        "bold": "source_sans_pro_bold_cc1ea6f6b63a94074b2e903a95fedc64"
+    },
+    "ionicons": {
+        "normal": "ionicons_normal_1b2b773bb3197b577cecee8d68579952"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_7ea195556637d817f455524c7885b526"
+    }
+}

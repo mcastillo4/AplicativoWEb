@@ -1,0 +1,19 @@
+          <?php var_dump($rut_usuario); ?>
+          <?php var_dump($id_usuario_detalle ); ?>
+          <?php var_dump($id_servicio_servicio); ?>
+          <?php var_dump($id_empresa); ?>
+          <?php var_dump($id_mensualidad); ?>
+          <?php var_dump($id_servicio_servicio); ?> //
+
+
+          <?php var_dump($id_asesoria); ?>
+          
+          
+          <?php var_dump($detalle_asesoria); ?>
+          
+          <?php var_dump($extra); ?>
+          
+          
+          <?php var_dump($id_tipo_servicio); ?>
+          
+          <?php var_dump($detalle_tipo_servicio); ?> 
